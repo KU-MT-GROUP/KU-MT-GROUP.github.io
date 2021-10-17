@@ -25,7 +25,11 @@
   - members
   - 연구원 정보 - people/index.html에서 수정
 * achieve: Notable Achievements
-* research: Research
+* research
+  - index.html: publications
+  - patent.html: patents
+  - honors.html: honors&awards
+  - talks.html: invited talks
 * demo: Demo
 * post: News 
 * policy: Policy
