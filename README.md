@@ -13,7 +13,7 @@
 * Contact
 
 ## Guide for site
-
+*** Notice! 맨 위 상단에 navigation bar 메뉴는 모든 페이지마다 index.html에 들어가 있어서 메뉴 하나를 추가할때마다 모든 폴더에서 해당 부분을 동일하게 
 1. Folder description
 * index.html : main page
 * author
