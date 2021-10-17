@@ -133,6 +133,26 @@ Research page
 					overflow: hidden;
 					background-color: #333;
 				}
+
+				ul.horizontal li {
+					float: left;
+				}
+
+				ul.horizontal li a {
+					display: inline-block;
+					color: white;
+					text-align: center;
+					padding: 14px 16px;
+					text-decoration: none;
+				}
+
+				ul.horizontal li a:hover:not(.active) {
+					background-color: #000;
+				}
+
+				ul.horizontal li a.active {
+					background-color:#04AA6D;
+				}
 				</style>
 				<ul class="horizontal">
 				  <li><a class="active" href=./index.html>Publications</a></li>
